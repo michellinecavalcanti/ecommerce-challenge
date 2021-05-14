@@ -1,0 +1,62 @@
+[
+    { 
+        "codProduto": 1234,
+        "descricao": "Computador Dell Inspiron XS 12000 8Gb RAM 1 TB HD Intel i5 4g NVidia 1080",
+        "preco": 3500.00,
+        "qtdEstoque": 5,
+        "disponivel": "sim",
+        "emDestaque": "sim",
+        "departament" : {
+          "idDept": 987,
+          "nameDept":"Informática e Acessórios"
+        }
+    },
+    { 
+        "codProduto": 1235,
+        "descricao": "Notebook Lenovo Ultrafino ideapad S145 i5-8265U, 8GB 256GB SSD GeForce MX 110 Windows 10 15.6",
+        "preco": 4100.00,
+        "qtdEstoque": 15,
+        "disponivel": "não",
+        "emDestaque": "sim",
+        "departament" : {
+          "idDept": 987,
+          "nameDept":"Informática e Acessórios"
+        }
+    },
+    { 
+        "codProduto": 1236,
+        "descricao": "Notebook Samsung, Intel Core i7 10510U, 16GB, 1TB + 128GB SSD, Tela de 15,6",
+        "preco": 5400.00,
+        "qtdEstoque": 10,
+        "disponivel": "sim",
+        "emDestaque": "sim",
+        "departament" : {
+          "idDept": 987,
+          "nameDept":"Informática e Acessórios"
+        }
+    },
+    { 
+        "codProduto": 1237,
+        "descricao": "Apple MacBook Pro 13, Chip M1, 8GB RAM, 256 GB SSD - Space Gray",
+        "preco": 10000.00,
+        "qtdEstoque": 5,
+        "disponivel": "sim",
+        "emDestaque": "não",
+        "departament" : {
+          "idDept": 987,
+          "nameDept":"Informática e Acessórios"
+        }
+    },
+    { 
+      "codProduto": 1237,
+      "descricao": "PC Gamer Completo Intel Core i7, Geforce GTX 1650 4GB, 8GB, Monitor 21.5 Full HD, HD 1TB",
+      "preco": 5800.00,
+      "qtdEstoque": 5,
+      "disponivel": "sim",
+      "emDestaque": "sim",
+      "departament" : {
+        "idDept": 987,
+        "nameDept":"Informática e Acessórios"
+      }
+  }
+]
