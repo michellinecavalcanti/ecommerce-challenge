@@ -52,7 +52,7 @@ function totalItemsDepartment(idDept) {
     }
     console.log({nameDepartment, ItemsDepartment})    
 }
-totalItemsDepartment(987)
+totalItemsDepartment()
 
 function totalInventoryDepartment(idDept) {
     let nameDepartment = '';
@@ -65,7 +65,7 @@ function totalInventoryDepartment(idDept) {
     }
     console.log(`Valor total do inventário por departamento: ${nameDepartment}: ${InventoryDepartment}`)
 }
-totalInventoryDepartment(987)
+totalInventoryDepartment()
 
 function AverageTicket() {
     let Inventory = 0
@@ -96,7 +96,7 @@ function AverageTicketDepartment(idDept) {
     ticket = (Inventory / numStockItems)
     console.log({nameDepartment, ticket})
 }
-AverageTicketDepartment(987)
+AverageTicketDepartment()
 
 function ValuableDepartment(idDept) {
     let nameDepartment = '';
@@ -109,7 +109,7 @@ function ValuableDepartment(idDept) {
     }
     console.log(`O departamento mais valioso é: ${nameDepartment}: ${ValuableDepartment}`)
 }
-ValuableDepartment(987)
+ValuableDepartment()
 
 function ExpensiveProduct() {
     let comparation = product[0].preco
