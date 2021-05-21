@@ -48,7 +48,7 @@
         }
     },
     { 
-      "codProduto": 1237,
+      "codProduto": 1238,
       "descricao": "PC Gamer Completo Intel Core i7, Geforce GTX 1650 4GB, 8GB, Monitor 21.5 Full HD, HD 1TB",
       "preco": 5800.00,
       "qtdEstoque": 5,
@@ -58,5 +58,41 @@
         "idDept": 987,
         "nameDept":"Informática e Acessórios"
       }
-  }
+  },
+  {
+    "codProduto": 23212,
+    "descricao": "CADEADO SEGURANCA PARA NOTEBOOK HLD F\u0026K LLAVE",
+    "preco": 6.5,
+    "qtdEstoque": 2,
+    "disponivel": "sim",
+    "emDestaque": "não",
+    "departament": {
+        "idDept": 988,
+        "nameDept":"Ferramentas"
+        }
+    },
+    {
+  "codProduto": 18091,
+  "descricao": "ANTENA P/TV DIGITAL KOLKE KVV288 INTERNA VHF/UHF/FHD PRETO",
+  "preco": 9.0,
+  "qtdEstoque": 6,
+  "disponivel": "sim",
+  "emDestaque": "sim",
+  "departament": {
+      "idDept": 989,
+      "nameDept":"Eletrônicos"
+        }
+    },
+    {
+    "codProduto": 18092,
+    "descricao": "APRESENTADOR LASER SATELLITE LR-26R PRETO",
+    "preco": 8.0,
+    "qtdEstoque": 0,
+    "disponivel": "sim",
+    "emDestaque": "não",
+    "departament": {
+        "idDept": 989,
+        "nameDept":"Eletrônicos"
+        }
+    }
 ]
